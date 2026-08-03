@@ -23,6 +23,6 @@ LexiGuard leverages AntiGravity to manage sequential and parallel agent workflow
 *(Work in Progress - Initial Setup)*
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/LexiGuard-AI.git](https://github.com/YOUR_USERNAME/LexiGuard-AI.git)
-cd LexiGuard-AI
+git clone [https://github.com/farhan656-bot/Lawguard.git](https://github.com/farhan656-bot/Lawguard.git)
+cd Lawguard
 pip install -r requirements.txt# Lawguard

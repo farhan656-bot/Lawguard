@@ -4,7 +4,7 @@ LawGuard AI is an open-source, multi-agent legal compliance and contract review 
 
 ## 🏗️ Architecture & Agentic Workflow
 
-LexiGuard leverages AntiGravity to manage sequential and parallel agent workflows:
+LawGuard leverages AntiGravity to manage sequential and parallel agent workflows:
 
 1. **Document Ingestion Agent:** Extracts and structures text from legal PDFs/DOCX documents.
 2. **Risk & Compliance Agent (powered by Claude):** Identifies high-risk clauses, indemnities, liability traps, and non-standard terms.
@@ -25,4 +25,4 @@ LexiGuard leverages AntiGravity to manage sequential and parallel agent workflow
 ```bash
 git clone [https://github.com/farhan656-bot/Lawguard.git](https://github.com/farhan656-bot/Lawguard.git)
 cd Lawguard
-pip install -r requirements.txt# Lawguard
+pip install -r requirements.txt
